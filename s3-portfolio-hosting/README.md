@@ -57,8 +57,8 @@ Create the following files for your portfolio:
       "Resource": "arn:aws:s3:::YOUR_BUCKET_NAME/*"
     }
   ]
-}```
-
+}
+```
 ---
 
 🔒 Best Practices Followed
