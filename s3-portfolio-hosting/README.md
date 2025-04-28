@@ -61,12 +61,12 @@ Create the following files for your portfolio:
 
 ---
 
-## 🔒 Best Practices Followed
+🔒 Best Practices Followed
 - Clean bucket setup
 - Minimum permissions (only GetObject)
 - Versioning enabled
 - No unnecessary files
 - Clean and responsive portfolio site
 
-## 📄 License
+📄 License
 This project is for educational and professional portfolio use.
