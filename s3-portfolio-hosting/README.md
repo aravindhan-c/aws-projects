@@ -73,3 +73,10 @@ Create the following files for your portfolio:
 
 ## 📄 License
 This project is for educational and professional portfolio use.
+
+## 🌐 Website URL
+
+You can access the hosted portfolio website at the following URL:
+
+[http://portfolio-aravindhan-c.s3-website-us-east-1.amazonaws.com](http://portfolio-aravindhan-c.s3-website-us-east-1.amazonaws.com)
+
